@@ -1,13 +1,16 @@
 ---
 author: Vaggelis Karavasileiadis 2016128
 title: "Bill Gates"
-caption: "Ο Γουίλλιαμ Χένρυ "Μπιλ" Γκέιτς (28 Οκτωβρίου 1955) είναι Αμερικανός επιχειρηματίας, φιλάνθρωπος, επενδυτής, προγραμματιστής υπολογιστών, και εφευρέτης."
+caption: "O Bill Gates είναι Αμερικανός επιχειρηματίας, φιλάνθρωπος, επενδυτής, προγραμματιστής υπολογιστών και εφευρέτης ο οποίο μαζί με τον Paul Allen συνίδρυσαν την εταιρεία Microsoft."
 categories:
   - biography
 tags:
-  - Bill gates
+  - Bill Gates
   - Microsoft
   - Software
-  
+  - Harvard
+---
+
 {% include_relative bio-gates.md %}
+
 
