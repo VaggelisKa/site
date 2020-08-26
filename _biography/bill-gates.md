@@ -8,5 +8,6 @@ tags:
   - Bill gates
   - Microsoft
   - Software
+  
 {% include_relative bio-gates.md %}
 
